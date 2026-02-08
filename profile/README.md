@@ -1,4 +1,12 @@
 <div align="center">
-    <img src="https://github.com/zcloudpass/zcloudpass/blob/219fddeba8f2460045c781bc6298df1ccf519155/assets/rounded/logo.png" width="384"/>
-    <h1>ZCloudPass</h1>
+    <img src="https://github.com/zcloudpass/zcloudpass/blob/219fddeba8f2460045c781bc6298df1ccf519155/assets/rounded/logo.png" width="256"/>
+    <h1>zCloudPass</h1>
 </div>
+
+zCloudPass is a **Cross-Platform Zero-Knowledge Password Manager with Secure Synchronization**. It is designed to provide users with a secure and convenient way to manage their passwords across multiple devices while ensuring that their sensitive information remains protected. With zCloudPass, users can store, organize, and access their passwords without the need for a master password, as it utilizes zero-knowledge encryption to keep data secure. The application also offers seamless synchronization across devices, allowing users to access their passwords from anywhere while maintaining the highest level of security.
+
+Unlike basic encrypted web apps that rely on server-side trust, this system must employ strong client-side cryptography for key derivation, encryption, and authentication, ensuring that no plaintext secrets are ever transmitted or exposed. Additional capabilities such as secure autofill assistants, password strength analytics, breach monitoring, and offline mode with later synchronization should be considered as part of a comprehensive security and usability approach.
+
+End goal is to create a robust, user-friendly password manager that prioritizes security and privacy, while also providing features that enhance the overall user experience. By leveraging modern cryptographic techniques and best practices, zCloudPass aims to set a new standard for password management in the digital age. The project aims for native apps on Windows, macOS, Linux, iOS, and Android, as well as a web app for browser access. The development process will involve careful consideration of security protocols, user interface design, and cross-platform compatibility to ensure a seamless and secure experience for all users. The project will include features such as password generation and integration with biometric authentication methods, as well as support for two-factor authentication (2FA) to further enhance security.
+
+This is a work in progress, and we welcome contributions from the community to help us build a secure and user-friendly password manager. If you are interested in contributing, please check out our GitHub repository and join our discussions. Together, we can create a powerful tool that helps users manage their passwords securely and conveniently.
